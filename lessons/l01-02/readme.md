@@ -1,0 +1,2 @@
+1. project.pdf - проект по домашки, гугл ссылка: https://docs.google.com/document/d/18tgQIOlJ6apU-ocZdNbsUTbgUzWwBrt4UOTHcFtymRg/edit?usp=sharing
+2. *.excalidraw - графика со схемами, сами картинки в pdf из пункта 1
